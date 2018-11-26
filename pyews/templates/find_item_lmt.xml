@@ -31,7 +31,6 @@
       <m:ParentFolderIds>
         <t:FolderId Id="{{ folder_id }} " />
       </m:ParentFolderIds>
-      <m:QueryString>System.Category:'Odoo'</m:QueryString>
     </m:FindItem>
 {% end %}
 
